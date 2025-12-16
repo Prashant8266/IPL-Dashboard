@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/apricus101/IPL_Dashboard_with_MERN_Stack_and_Firebase_Deployment
+	fetch = +refs/*:refs/*
+	mirror = true
