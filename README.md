@@ -43,45 +43,4 @@ Win/loss distribution across seasons
 
 Venue-based match outcome trends
 
-Basic statistical summaries of IPL matches
 
-Visualization of important insights
-
- Sample Insights
-
-Identified teams with consistently high win percentages
-
-Observed venue-specific advantages in match outcomes
-
-Analyzed season-wise trends in match results
-
-(Insights may vary based on dataset used)
-
- How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/USERNAME/REPO_NAME.git
-
-
-Navigate to the project folder:
-
-cd IPL-Project
-
-
-Open Jupyter Notebook:
-
-jupyter notebook
-
-
-Run the notebooks in the notebooks/ directory
-
- Future Improvements
-
-Add player-level performance analysis
-
-Include predictive modeling for match outcomes
-
-Create an interactive dashboard using Power BI / Tableau
-
-Automate data ingestion and updates
