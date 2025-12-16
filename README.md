@@ -27,14 +27,6 @@ Matplotlib / Seaborn – Basic visualizations
 
 Jupyter Notebook – Interactive analysis environment
 
-📂 Project Structure
-IPL-Project/
-│── data/                  # Raw and processed datasets
-│── notebooks/             # Jupyter notebooks for analysis
-│── sql/                   # SQL queries used in analysis
-│── visualizations/        # Generated plots and charts
-│── README.md              # Project documentation
-
  Key Analysis Performed
 
 Match-wise and team-wise performance analysis
